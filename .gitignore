@@ -1,4 +1,5 @@
 # OpenSCAD
+# Generierte 3D-Modelle und Export-Dateien
 *.stl
 *.STL
 *.stl.gz
@@ -7,17 +8,17 @@
 *.3MF
 *.amf
 *.AMF
+*.csg
+*.CSG
 *.dxf
 *.DXF
 *.svg
 *.SVG
 *.png
 *.PNG
-*.csg
-*.CSG
 autosave.*
 
-# OpenSCAD backup files
+# OpenSCAD Backup-Dateien
 *.bak
 *.BAK
 *~
@@ -28,7 +29,6 @@ autosave.*
 .vscode/
 *.swp
 *.swo
-*~
 
 # macOS
 .DS_Store
@@ -54,7 +54,6 @@ Desktop.ini
 $RECYCLE.BIN/
 
 # Linux
-*~
 .nfs*
 
 # General
